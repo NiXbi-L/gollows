@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\DiXer\source\repos\Project1\Source.cpp(11,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DiXer\source\repos\Project1\Source.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DiXer\source\repos\Project1\Source.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DiXer\source\repos\Project1\Source.cpp(72,31): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\DiXer\source\repos\Project1\Debug\Project1.exe
